@@ -72,6 +72,7 @@ Technologies Used
 ------
 
 - [Rails](https://rubyonrails.org/)
+- [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Devise](https://github.com/plataformatec/devise)
 - [RSpec](http://rspec.info/)
